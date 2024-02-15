@@ -11,15 +11,11 @@ de la aplicación.
 
 [![imagen-2024-02-14-213447482.png](https://i.postimg.cc/VNfnKcBF/imagen-2024-02-14-213447482.png)](https://postimg.cc/rDHDp3Hd)
 
-3: Funcionamiento del botón "Eliminar".
+3: Para eliminar una fila, solo debes seleccionarla y hacer click en el botón "Eliminar".
 
-Para eliminar una fila, seleccionar la fila completa al dar click en la flecha del extremo izquierdo:
+[![imagen-2024-02-14-214909054.png](https://i.postimg.cc/0QcxRF3x/imagen-2024-02-14-214909054.png)](https://postimg.cc/R662ws4b)
 
-[![imagen-2024-02-14-213636015.png](https://i.postimg.cc/4yQcgfGy/imagen-2024-02-14-213636015.png)](https://postimg.cc/MfXH08vJ)
-
-Y luego utilizar el botón "Eliminar".
-
-[![imagen-2024-02-14-213738346.png](https://i.postimg.cc/Jz1qtFYS/imagen-2024-02-14-213738346.png)](https://postimg.cc/XpzFzsbg)
+[![imagen-2024-02-14-214939094.png](https://i.postimg.cc/NfytSNxq/imagen-2024-02-14-214939094.png)](https://postimg.cc/QHrvWJP0)
 
 4: Limpiado de campos mediante el botón "Limpiar".
 
